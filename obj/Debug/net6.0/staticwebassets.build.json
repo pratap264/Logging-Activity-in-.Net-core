@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "mT47V+c2dRKGSRixAzka4WAdG7AwQ4WdOqaI0IhibaA=",
+  "Source": "SalesOrderAPI",
+  "BasePath": "_content/SalesOrderAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SalesOrderAPI\\wwwroot",
+      "Source": "SalesOrderAPI",
+      "ContentRoot": "C:\\Users\\prata\\Documents\\Office Work\\SalesOrderAPI\\wwwroot\\",
+      "BasePath": "_content/SalesOrderAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\prata\\Documents\\Office Work\\SalesOrderAPI\\wwwroot\\Uploads\\common\\logo.jpeg",
+      "SourceId": "SalesOrderAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\prata\\Documents\\Office Work\\SalesOrderAPI\\wwwroot\\",
+      "BasePath": "_content/SalesOrderAPI",
+      "RelativePath": "Uploads/common/logo.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\common\\logo.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\prata\\Documents\\Office Work\\SalesOrderAPI\\wwwroot\\Uploads\\common\\noimage.png",
+      "SourceId": "SalesOrderAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\prata\\Documents\\Office Work\\SalesOrderAPI\\wwwroot\\",
+      "BasePath": "_content/SalesOrderAPI",
+      "RelativePath": "Uploads/common/noimage.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\common\\noimage.png"
+    },
+    {
+      "Identity": "C:\\Users\\prata\\Documents\\Office Work\\SalesOrderAPI\\wwwroot\\Uploads\\Product\\p101\\image.png",
+      "SourceId": "SalesOrderAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\prata\\Documents\\Office Work\\SalesOrderAPI\\wwwroot\\",
+      "BasePath": "_content/SalesOrderAPI",
+      "RelativePath": "Uploads/Product/p101/image.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Product\\p101\\image.png"
+    },
+    {
+      "Identity": "C:\\Users\\prata\\Documents\\Office Work\\SalesOrderAPI\\wwwroot\\Uploads\\Product\\p102\\image.png",
+      "SourceId": "SalesOrderAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\prata\\Documents\\Office Work\\SalesOrderAPI\\wwwroot\\",
+      "BasePath": "_content/SalesOrderAPI",
+      "RelativePath": "Uploads/Product/p102/image.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Product\\p102\\image.png"
+    }
+  ]
+}
